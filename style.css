@@ -33,12 +33,15 @@ footer {
      border: 3px solid rgb(90, 150, 84);
      background: rgb(0, 0, 0);
      color: white;
-     margin-left: 200px;
+     
  }
 
  @media(max-width: 480px) {
      section {
          width: 250px;
          padding: 10px;
+     }
+     p {
+         font-size: 10px;
      }
  }
